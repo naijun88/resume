@@ -120,3 +120,17 @@ I am a 7 years' experienced QA engineer in Information Technology Industry with 
 *Implemented Banking Data batch file and report generation and report exception verification.
 
 *Analyzed test results and report the defect and managed defect in HP QC.
+
+### **EDUCATION**
+
+**LiaoNing University, China**
+
+**U.S. Equivalent Economics Bachelors degree**
+
+**Bachelor Degree of Economics, Intl. Finance Field**
+
+### **LANGUAGES**
+
+English
+
+Chinese Mandarin
