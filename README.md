@@ -1,6 +1,8 @@
 # Shimei Zheng
 
-Metuchen, NJ 08840, GC Holder
+US Permanent Resident
+
+Metuchen, NJ 08840,
 
 (732) 887-7417
 
