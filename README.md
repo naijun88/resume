@@ -129,7 +129,7 @@ I am a 7 years' experienced QA engineer in Information Technology Industry with 
 
 ### **EDUCATION**
 
-LiaoNing University, China
+Liaoning University, China
 
 * U.S. Equivalent Economics Bachelors degree
 
