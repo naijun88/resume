@@ -1,12 +1,12 @@
 # Shimei Zheng
 
-Metuchen, NJ 08840
+Metuchen, NJ 08840, GC Holder
 
 (732) 887-7417
 
 shimeiblanco@icloud.com
 
-Visa: GREEN CARD HOLDER
+
 
 ### **EXPERIENCE AND TECHNOLOGY SKILLS SUMMARY:**
 
