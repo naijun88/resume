@@ -6,7 +6,7 @@ Metuchen, NJ 08840
 
 shimeiblanco@icloud.com
 
-##### **EXPERIENCE AND TECHNOLOGY SKILLS SUMMARY:**
+### **EXPERIENCE AND TECHNOLOGY SKILLS SUMMARY:**
 
 I am a 7 years' experienced QA engineer in Information Technology Industry with an emphasis on Automation Testing, SIT Testing, User Acceptance Testing in the diversified domain was working in Citi Information Technology Service Ltd, Genpact Ltd, IBM successively.
 
@@ -38,7 +38,7 @@ I am a 7 years' experienced QA engineer in Information Technology Industry with 
 
 *Proven ability in working on the enormous projects and as a highly efficient team play in the internationalized project team.
 
-#### **WORK EXPERIENCE:**
+## **WORK EXPERIENCE:**
 
 ### **IBM,  Dalian, China - Senior Test Engineer**
 
