@@ -48,20 +48,74 @@ SEP 2011 - AUG 2014
 **Responsibilities:**
 
 *Analyzed the Business Requirements Documents and Functional Requirements Documents and wrote the Use Case for per Specification.
+
 *Developed Automation Script with Selenium WebDriver and Java Programming language.
-*implemented Selenium WebDriver automation script using Eclipse IDE, TestNG, Maven
+
+*Implemented Selenium WebDriver automation script using Eclipse IDE, TestNG, Maven
+
 *Implemented automated Functional Testing and Regression Testing
+
 *Implemented Page Object Model Framework, Data Driven Framework and Hybrid Framework using TestNG, POI and Testng.xml.
+
 *Implemented Crossing Browser Testing and Parallel Testing, Group Testing using, Result Report using TestNG.
+
 *Prepared test data for System Integration testing and automation testing.
 *Implemented the Test Case step by step manually as per Use Case.
+
 *Wrote SQL queries and queried DB2 and composed test report.
+
 *Performed validation on Web Application and IBM MVS, verified Data synchronization.
+
 *Analyzed test result and mapped the test case and BRD in Requirement Traceability Matrix.
+
 *Performed Test Management and Defect Management in RQM.
 
 **IBM FRS** (Field Resource Solution, IBM’s strategy for matching sellers to coverage territories)
 
 *Analyzed the Business Requirement Specification and User Requirement Specification.
+
 *Implemented manual test execution on the Web Application and updated the Requirement Traceability Matrix.
+
 *Implemented Defect Management on RQM and Rested the fixed Defect.
+
+**GENPACT, Dalian, China - Automation Tester**
+
+**MAR 2011 - SEP 2011**
+
+**Responsibilities:**
+
+*Implemented Automation Testing on ERP-CCL (Corp. Central Ledger)
+
+*Involved in analyzing User Requirements Documents and Business Requirement Document and participated in writing Test Plans.
+
+*Participated in developing QTP script.
+
+*Implemented automation execution on HP QC, QTP, and BTP.
+
+**Citi Information Technology Service Ltd, Dalian, China - UAT tester**
+
+**SEP 2006 - Mar 2011**
+**Manual Testing**
+**Responsibilities:**
+
+*Worked on various large projects and implemented UAT (User Acceptance Testing) Testing on Citibank German, Citibank Australian, Citibank Japanese Online Bank and Mobile Bank, and ATM Machine Project, Function included: Bank Teller, ATM, Advanced loan System, Customer Relationship Management, Customer Risk Management, Citibank Insurance, Installment Personal Load, Citibank Credit Card, Foreign Exchange and Mutual Fund.
+
+*Analyzed the Business Requirement Specification and User Requirement Specification, and gather Information and Identified the Priority of Testing and Details.
+
+*Participated in Designed UAT Test Plan based on User Requirement Specification.
+
+*Designed and Updated Test Strategy and Script based on the User requirements and updated User Requirement.
+
+*Set up the test case precondition and Test Database on the completed Test Case for the various transaction.
+
+*Reviewed Test Case in pairs and Import the Test Case to HP QC.
+
+*Executed the test script in the HP QC and updated in test result in HP QC and mapped the test case and Requirement Traceability Matrix.
+
+*Implemented Test execution on different browsers and the same browser with different versions.
+
+*Implemented End to End Testing and Regression Testing on Banking online web application and IBM Mainframe to validate whether the process and data were transferred and synchronized.
+
+*Implemented Banking Data batch file and report generation and report exception verification.
+
+*Analyzed test results and report the defect and managed defect in HP QC.
