@@ -99,7 +99,11 @@ I am a 7 years' experienced QA engineer in Information Technology Industry with 
 
 * Implemented automation execution on HP QC, QTP, and BTP.
 
-### **Citigroup Services and Technology (China) Limited, [CSTS](http://www.citigroup.com/china/csts/index.htm), Dalian, China - UAT tester**
+### **Citigroup Services and Technology (China) Limited, Dalian, China
+
+[CSTS](http://www.citigroup.com/china/csts/index.htm)
+
+**UAT tester**
 
 **SEP 2006 - Mar 2011**
 
