@@ -45,6 +45,7 @@ I am a 7 years' experienced QA engineer in Information Technology Industry with 
 **SEP 2011 - AUG 2014**
 
 **IBM FMS** (Field Management System, it is an IBM Internal Web Application calculating the Incentives and Commission for IBM sales)
+
 **Responsibilities:**
 
 *Analyzed the Business Requirements Documents and Functional Requirements Documents and wrote the Use Case for per Specification.
