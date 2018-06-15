@@ -44,7 +44,11 @@ I am a 7 years' experienced QA engineer in Information Technology Industry with 
 
 ## **WORK EXPERIENCE:**
 
-### **IBM,  Dalian, China - Senior Test Engineer**
+### **IBM,  Dalian, China
+
+**[IBM GDC](http://www-31.ibm.com/solutions/cn/gdc_en/)**
+
+**Senior Test Engineer**
 
 **SEP 2011 - AUG 2014**
 
