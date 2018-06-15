@@ -125,11 +125,11 @@ I am a 7 years' experienced QA engineer in Information Technology Industry with 
 
 ### **EDUCATION**
 
-**LiaoNing University, China**
+LiaoNing University, China
 
-**U.S. Equivalent Economics Bachelors degree**
+U.S. Equivalent Economics Bachelors degree
 
-**Bachelor Degree of Economics, Intl. Finance Field**
+Bachelor Degree of Economics, Intl. Finance Field
 
 ### **LANGUAGES**
 
