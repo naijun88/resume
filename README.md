@@ -16,11 +16,11 @@ I am a 7 years' experienced QA engineer in Information Technology Industry with 
 
 *Proficient knowledge and experience in Automation Testing, System Integration Testing, User Acceptance, Smoke Testing and Sanity Testing, Functional Testing, Regression Testing, End to End Testing.
 
-*Expertise in Selenium WebDriver, Core Java, OOPS Java.
+*Expertise in [Selenium WebDriver](https://www.seleniumhq.org), [Core Java](https://java.com/en/download/), OOPS Java.
 
 *Expertise in Automation Frameworks like Data Driven Automation Framework, Modular Driven Automation Framework, Hybrid Automation Framework and Design patterns like POM and Page Factory.
 
-*Expertise in the Testing framework like TestNG and Continuous Integration tool like Maven.
+*Expertise in the Testing framework like [TestNG](https://testng.org/doc/index.html) and Continuous Integration tool like [Maven](https://maven.apache.org).
 
 *Proficient skills in Designing Selenium WebDriver script with Java Programming language and maintaining the script and code.
 
@@ -96,7 +96,9 @@ I am a 7 years' experienced QA engineer in Information Technology Industry with 
 ### **Citi Information Technology Service Ltd, Dalian, China - UAT tester**
 
 **SEP 2006 - Mar 2011**
+
 **Manual Testing**
+
 **Responsibilities:**
 
 *Worked on various large projects and implemented UAT (User Acceptance Testing) Testing on Citibank German, Citibank Australian, Citibank Japanese Online Bank and Mobile Bank, and ATM Machine Project, Function included: Bank Teller, ATM, Advanced loan System, Customer Relationship Management, Customer Risk Management, Citibank Insurance, Installment Personal Load, Citibank Credit Card, Foreign Exchange and Mutual Fund.
