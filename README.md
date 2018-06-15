@@ -38,11 +38,11 @@ I am a 7 years' experienced QA engineer in Information Technology Industry with 
 
 *Proven ability in working on the enormous projects and as a highly efficient team play in the internationalized project team.
 
-**WORK EXPERIENCE:**
+#### **WORK EXPERIENCE:**
 
-IBM,  Dalian, China - Senior Test Engineer
+### **IBM,  Dalian, China - Senior Test Engineer**
 
-SEP 2011 - AUG 2014
+**SEP 2011 - AUG 2014**
 
 **IBM FMS** (Field Management System, it is an IBM Internal Web Application calculating the Incentives and Commission for IBM sales)
 **Responsibilities:**
@@ -78,7 +78,7 @@ SEP 2011 - AUG 2014
 
 *Implemented Defect Management on RQM and Rested the fixed Defect.
 
-**GENPACT, Dalian, China - Automation Tester**
+### **GENPACT, Dalian, China - Automation Tester**
 
 **MAR 2011 - SEP 2011**
 
@@ -92,7 +92,7 @@ SEP 2011 - AUG 2014
 
 *Implemented automation execution on HP QC, QTP, and BTP.
 
-**Citi Information Technology Service Ltd, Dalian, China - UAT tester**
+### **Citi Information Technology Service Ltd, Dalian, China - UAT tester**
 
 **SEP 2006 - Mar 2011**
 **Manual Testing**
