@@ -12,7 +12,7 @@ shimeiblanco@gmail.com
 
 ### **EXPERIENCE AND TECHNOLOGY SKILLS SUMMARY:**
 
-I am a 7 years' experienced QA engineer in Information Technology Industry with an emphasis on Automation Testing, SIT Testing, User Acceptance Testing in the diversified domain was working in Citi Information Technology Service Ltd, Genpact Ltd, IBM successively.
+I am 7 years' experienced QA engineer in Information Technology Industry with an emphasis on Automation Testing, SIT Testing, User Acceptance Testing in the diversified domain was working in Citi Information Technology Service Ltd, Genpact Ltd, IBM successively.
 
 * Extensive experience in Banking and Financial Domain, General Electric conglomerate's General Ledger, IBM Internal Web Application, IBM Mainframe, MVS.
 
@@ -144,3 +144,4 @@ Liaoning University, China
 * English
 
 * Mandarin
+# test
